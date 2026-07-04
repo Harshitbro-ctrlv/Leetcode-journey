@@ -60,11 +60,13 @@
 | [0125-valid-palindrome](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sorting
@@ -81,4 +83,8 @@
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
