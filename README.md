@@ -42,10 +42,12 @@
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sorting
 |  |
 | ------- |
