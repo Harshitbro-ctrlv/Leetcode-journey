@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
 ## Math
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1768-merge-strings-alternately](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -57,11 +60,13 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
