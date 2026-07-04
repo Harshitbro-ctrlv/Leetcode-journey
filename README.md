@@ -11,6 +11,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
