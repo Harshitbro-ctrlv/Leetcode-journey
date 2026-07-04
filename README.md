@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -84,6 +85,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
