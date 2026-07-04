@@ -12,6 +12,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
