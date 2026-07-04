@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
 | [2239-find-closest-number-to-zero](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3612-process-string-with-special-operations-i) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
