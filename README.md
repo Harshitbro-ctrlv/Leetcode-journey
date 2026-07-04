@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
 | [2239-find-closest-number-to-zero](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
 ## Math
 |  |
 | ------- |
