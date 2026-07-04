@@ -48,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0349-intersection-of-two-arrays) |
@@ -56,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/3612-process-string-with-special-operations-i) |
