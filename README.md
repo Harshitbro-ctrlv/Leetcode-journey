@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0191-number-of-1-bits) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
