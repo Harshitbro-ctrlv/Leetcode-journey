@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
+| [2239-find-closest-number-to-zero](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/2239-find-closest-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
