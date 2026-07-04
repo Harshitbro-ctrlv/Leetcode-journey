@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0001-two-sum) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/1207-unique-number-of-occurrences) |
@@ -56,5 +57,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Harshitbro-ctrlv/Leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
